@@ -914,10 +914,6 @@ h1, h2, h3, h4 {
     grid-template-columns: 1fr 1fr;
   }
 
-  .filiale-card.featured {
-    grid-column: span 2;
-  }
-
   .valeurs-grid {
     grid-template-columns: repeat(2, 1fr);
   }
@@ -963,10 +959,6 @@ h1, h2, h3, h4 {
 
   .filiales-grid {
     grid-template-columns: 1fr;
-  }
-
-  .filiale-card.featured {
-    grid-column: span 1;
   }
 
   .valeurs-grid {
